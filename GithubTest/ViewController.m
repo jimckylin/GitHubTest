@@ -22,6 +22,7 @@
     NSLog(@"this is test !");
     NSLog(@"aaaa");
     NSLog(@"bbbbb");
+    // new branch added
 }
 
 - (void)didReceiveMemoryWarning
